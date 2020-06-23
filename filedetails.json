@@ -11,12 +11,11 @@ persist-tun
 remote-cert-tls server
 auth SHA512
 cipher AES-256-CBC
-#ignore-unknown-option block-outside-dns
-#block-outside-dns
 auth-user-pass
 compress lz4
 reneg-sec 0
 tun-mtu 1468
+client-cert-not-required
 explicit-exit-notify 2
 verb 3
 <ca>
@@ -72,12 +71,11 @@ persist-tun
 remote-cert-tls server
 auth SHA512
 cipher AES-256-CBC
-#ignore-unknown-option block-outside-dns
-#block-outside-dns
 auth-user-pass
 compress lz4
 reneg-sec 0
 tun-mtu 1468
+client-cert-not-required
 explicit-exit-notify 2
 verb 3
 <ca>
