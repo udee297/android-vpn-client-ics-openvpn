@@ -12,7 +12,6 @@
     {"id":2, "app":"com.torrent.client"}
   ],
   "free":[
-    {"id":0, "file":1, "city":"Singapore","country":"Singapore","image":"singapore","ip":"208.109.12.80","active":"true","signal":"a"},
-    {"id":1, "file":2, "city":"Jakarta","country":"Indonesia","image":"indonesia","ip":"103.103.192.214","active":"true","signal":"a"} 
+    {"id":0, "file":1, "city":"Singapore","country":"Singapore","image":"singapore","ip":"208.109.12.80","active":"true","signal":"a"}
   ]
 }
