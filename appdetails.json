@@ -13,7 +13,7 @@
   ],
   "free":[
     {"id":0, "file":1, "city":"Singapore","country":"Singapore","image":"singapore","ip":"208.109.12.80","active":"true","signal":"a"},
-    {"id":1, "file":1, "city":"Indonesia","country":"Indonesia","image":"indonesia","ip":"208.109.12.80","active":"true","signal":"b"},
+    {"id":1, "file":1, "city":"Indonesia","country":"Indonesia","image":"unitedstates","ip":"208.109.12.80","active":"true","signal":"b"},
     {"id":2, "file":1, "city":"Japan","country":"Japan","image":"japan","ip":"208.109.12.80","active":"true","signal":"c"},
     {"id":3, "file":1, "city":"Malaysia","country":"Malaysia","image":"malaysia","ip":"208.109.12.80","active":"true","signal":"d"}
   ]
